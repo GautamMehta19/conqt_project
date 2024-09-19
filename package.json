@@ -1,0 +1,17 @@
+{
+  "name": "new_project",
+  "version": "1.0.0",
+  "description": "Problem Statement\r You are required to build a Node.js application with an Express.js API endpoint that fetches specific data from a relational database. The application should meet the following requirements:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0",
+    "mysql": "^2.18.1",
+    "nodemon": "^3.1.6",
+    "sql": "^0.78.0"
+  }
+}
